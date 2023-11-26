@@ -39,10 +39,10 @@ header {
 footer {
     background-color: #005B41; 
 }
-.btn btn-primary{
+.btn-btn-primary{
     background-color: #99B080;
 }
-.btn btn-primary:hover{
+.btn-btn-primary:hover{
     background-color: #005B41;
 }
 footer a {

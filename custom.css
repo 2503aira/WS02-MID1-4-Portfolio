@@ -29,14 +29,22 @@ header {
 
 .singleCol {
     max-width: 750px;
-
 }
-
+.btn-outline-dark{
+    background-color: #99B080;
+}
+.btn-outline-dark:hover{
+    background-color: #A7D397;
+}
 footer {
-    background-color: #005B41;;
-    
+    background-color: #005B41; 
 }
-
+.btn btn-primary{
+    background-color: #99B080;
+}
+.btn btn-primary:hover{
+    background-color: #005B41;
+}
 footer a {
     color: white;
 
